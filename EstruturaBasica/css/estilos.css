@@ -1,3 +1,22 @@
-.missao strong {
-    color: red;
+.nome {
+    color: #f00;
+    /*
+    font-size: 24px;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    */
+    font: italic bold 24px 'Trebuchet MS', sans-serif;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+.segmento {
+    font-family: Arial, serif;
+    font-style: italic;
+}
+
+#conteiner {
+    width: 500px;
+    background-color: yellow;
 }
